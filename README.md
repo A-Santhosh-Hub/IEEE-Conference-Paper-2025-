@@ -6,3 +6,4 @@ My own developed IEEE conference paper ( Not For all User's. Don't Use this Docu
 4. OPTIMIZING ENERGY EFFICIENCY IN 5G-ENABLED
 5. MACHINE LEARNING BASED DIABETES PREDICTION
 6. Fast Routing Protocol for Long Data in USN
+7. Efficient Attack Detection in WSN Using Long-Short Term Memory and Convolutional Neural Networks
