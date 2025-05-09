@@ -7,3 +7,4 @@ My own developed IEEE conference paper ( Not For all User's. Don't Use this Docu
 5. MACHINE LEARNING BASED DIABETES PREDICTION
 6. Fast Routing Protocol for Long Data in USN
 7. Efficient Attack Detection in WSN Using Long-Short Term Memory and Convolutional Neural Networks
+8. TRUSTWORTHY AI WITH BLOCKCHAIN: PREVENTING DATA POISONING IN DECENTRALIZED MODEL SHARING
