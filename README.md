@@ -9,3 +9,4 @@ My own developed IEEE conference paper ( Not For all User's. Don't Use this Docu
 7. Efficient Attack Detection in WSN Using Long-Short Term Memory and Convolutional Neural Networks
 8. TRUSTWORTHY AI WITH BLOCKCHAIN: PREVENTING DATA POISONING IN DECENTRALIZED MODEL SHARING
 9. Enhancing Prison Security through an IoT Based powered system Monitoring and Alerting during Jail Break and Attempts
+10. TRAIN DELAY PREDICTION USING MACHINE LEARNING
