@@ -11,3 +11,4 @@ My own developed IEEE conference paper ( Not For all User's. Don't Use this Docu
 9. Enhancing Prison Security through an IoT Based powered system Monitoring and Alerting during Jail Break and Attempts
 10. TRAIN DELAY PREDICTION USING MACHINE LEARNING
 11. AI-Driven Routing Selection in Wireless Sensor Networks Using Transformers, Graph Neural Networks, and Reinforcement Learning
+12. Python-based vehicle inventory and sales management system
