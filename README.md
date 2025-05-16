@@ -12,3 +12,4 @@ My own developed IEEE conference paper ( Not For all User's. Don't Use this Docu
 10. TRAIN DELAY PREDICTION USING MACHINE LEARNING
 11. AI-Driven Routing Selection in Wireless Sensor Networks Using Transformers, Graph Neural Networks, and Reinforcement Learning
 12. Python-based vehicle inventory and sales management system
+13. MACHINE LEARNING BASED DIABETES PREDICTION 
