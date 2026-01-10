@@ -15,3 +15,12 @@ My own developed IEEE conference paper ( Not For all User's. Don't Use this Docu
 13. MACHINE LEARNING BASED DIABETES PREDICTION
 14. ENERGY EFFICIENT ROUTING PROTOCOL FOR WSN USING ADAPTIVE CLUSTER SELECTION
 15. IDENTIFYING FALSE INJECTION PACKET TRANSMISSION USING SVM AND SECURE OLSR IN WIRELESS SENSOR NETWORKS
+
+
+
+
+==========================================================
+
+### 📸 Preview
+
+!IEEE-Conference-Paper-2025 Screenshot](https://github.com/A-Santhosh-Hub/IEEE-Conference-Paper-2025-/blob/main/ieee.png)
