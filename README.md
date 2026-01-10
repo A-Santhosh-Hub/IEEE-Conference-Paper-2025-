@@ -23,4 +23,4 @@ My own developed IEEE conference paper ( Not For all User's. Don't Use this Docu
 
 ### 📸 Preview
 
-!IEEE-Conference-Paper-2025 Screenshot](https://github.com/A-Santhosh-Hub/IEEE-Conference-Paper-2025-/blob/main/ieee.png)
+![IEEE-Conference-Paper-2025 Screenshot](https://github.com/A-Santhosh-Hub/IEEE-Conference-Paper-2025-/blob/main/ieee.png)
